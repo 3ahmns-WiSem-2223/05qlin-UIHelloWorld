@@ -11,6 +11,9 @@ Was habe ich daraus gelernt:
 
 Dabei habe ich gelernt, dass ich immer darauf achten sollte das ich den richtigen Variablentyp habe, beim Text zum Beispiel habe ich mich kurz gewundert wieso ich mein GameObject nicht reinziehen kann und dann erst bemerkt habe, dass ich eine den Variablentyp Text statt TextMeshProUGUI benutzt habe. 
 
+![uihello](https://user-images.githubusercontent.com/114598453/216105211-2bad6801-30f9-4ce0-a9ef-25acb15851b4.jpg)
+
+
 Unity Version: 2020.3.18f
 
 Visual Studio Version: Visual Studio 2019
